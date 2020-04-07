@@ -1,5 +1,11 @@
 # @keystonejs/keystone
 
+## 8.1.0
+
+### Minor Changes
+
+- [`515b4ff6`](https://github.com/keystonejs/keystone/commit/515b4ff697e4df40ece8e5ab30def93f9df866d1) [#2664](https://github.com/keystonejs/keystone/pull/2664) Thanks [@Vultraz](https://github.com/Vultraz)! - Added a `where: { key }` argument to List meta queries.
+
 ## 8.0.0
 
 ### Major Changes

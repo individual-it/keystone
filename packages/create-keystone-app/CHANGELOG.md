@@ -1,5 +1,11 @@
 # create-keystone-app
 
+## 2.1.0
+
+### Minor Changes
+
+- [`22f3356f`](https://github.com/keystonejs/keystone/commit/22f3356fece3057d81ca9c1cedc1d225088cb42a) [#2662](https://github.com/keystonejs/keystone/pull/2662) Thanks [@MadeByMike](https://github.com/MadeByMike)! - Added instructions for Knex adapters on how to initialise tables after running the CLI.
+
 ## 2.0.0
 
 ### Major Changes
